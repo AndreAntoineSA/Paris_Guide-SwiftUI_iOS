@@ -15,37 +15,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" adjustsImageSizeForAccessibilityContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8TB-gq-bm3">
+                            <imageView userInteractionEnabled="NO" contentMode="top" semanticContentAttribute="forceLeftToRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Component 1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="1os-2D-zCj">
                                 <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                                <color key="backgroundColor" red="0.0078431372549019607" green="0.019607843137254902" blue="0.30588235294117649" alpha="0.5490196078431373" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" red="0.0078431372550000003" green="0.019607843140000001" blue="0.30588235289999999" alpha="0.54901960780000003" colorSpace="calibratedRGB"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Paris Guide" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="efx-lh-z0D">
-                                <rect key="frame" x="125" y="428" width="165" height="41"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle0"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="By : André" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lpb-4R-idT">
-                                <rect key="frame" x="331" y="813" width="63" height="16"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" style="UICTFontTextStyleFootnote"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="8TB-gq-bm3" secondAttribute="bottom" id="HsT-t7-ocZ"/>
-                            <constraint firstItem="8TB-gq-bm3" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="SfE-Bo-AcT"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="8TB-gq-bm3" secondAttribute="trailing" id="jK0-t7-Z2R"/>
-                            <constraint firstItem="8TB-gq-bm3" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="tK4-hZ-TAI"/>
+                            <constraint firstItem="1os-2D-zCj" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="MRj-Aj-42b"/>
+                            <constraint firstItem="1os-2D-zCj" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="edE-J5-G13"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="1os-2D-zCj" secondAttribute="trailing" id="oAd-IU-Q4f"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="1os-2D-zCj" secondAttribute="bottom" id="uUv-Ve-pFn"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="53" y="375"/>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Component 1.jpg" width="512" height="877"/>
+    </resources>
 </document>
