@@ -15,6 +15,7 @@
 		6527CFDB24DE8B1800A675A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6527CFD924DE8B1800A675A2 /* LaunchScreen.storyboard */; };
 		6527CFE324DE9BE500A675A2 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6527CFE224DE9BE500A675A2 /* CircleImage.swift */; };
 		6527CFE524DE9F4200A675A2 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6527CFE424DE9F4200A675A2 /* MapView.swift */; };
+		6552C49E24E5A070003A765B /* Paris.png in Resources */ = {isa = PBXBuildFile; fileRef = 6552C49D24E5A070003A765B /* Paris.png */; };
 		6587EF7724E539020032FA18 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6587EF7624E539020032FA18 /* Data.swift */; };
 		6587EF7924E5390C0032FA18 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6587EF7824E5390C0032FA18 /* Landmark.swift */; };
 		6587EF7B24E539C10032FA18 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 6587EF7A24E539C10032FA18 /* landmarkData.json */; };
@@ -43,7 +44,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6527CFCB24DE8B1500A675A2 /* pARRis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pARRis.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6527CFCB24DE8B1500A675A2 /* Paris Guide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Paris Guide.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6527CFCE24DE8B1500A675A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6527CFD024DE8B1500A675A2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		6527CFD224DE8B1500A675A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +54,7 @@
 		6527CFDC24DE8B1800A675A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6527CFE224DE9BE500A675A2 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		6527CFE424DE9F4200A675A2 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		6552C49D24E5A070003A765B /* Paris.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Paris.png; sourceTree = "<group>"; };
 		6587EF7624E539020032FA18 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		6587EF7824E5390C0032FA18 /* Landmark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		6587EF7A24E539C10032FA18 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
@@ -102,7 +104,7 @@
 		6527CFCC24DE8B1500A675A2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6527CFCB24DE8B1500A675A2 /* pARRis.app */,
+				6527CFCB24DE8B1500A675A2 /* Paris Guide.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				6587EF7E24E53AA70032FA18 /* arr1.jpg */,
+				6552C49D24E5A070003A765B /* Paris.png */,
 				6587EF8024E53AA70032FA18 /* arr2.jpg */,
 				6587EF8424E53AA70032FA18 /* arr3.jpg */,
 				6587EF8224E53AA70032FA18 /* arr4.jpg */,
@@ -197,7 +200,7 @@
 			);
 			name = pARRis;
 			productName = pARRis;
-			productReference = 6527CFCB24DE8B1500A675A2 /* pARRis.app */;
+			productReference = 6527CFCB24DE8B1500A675A2 /* Paris Guide.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -254,6 +257,7 @@
 				6587EF9324E53AA80032FA18 /* arr8.jpg in Resources */,
 				6587EFA224E53AA80032FA18 /* arr12.jpg in Resources */,
 				6587EF9D24E53AA80032FA18 /* arr17.jpg in Resources */,
+				6552C49E24E5A070003A765B /* Paris.png in Resources */,
 				6587EF9F24E53AA80032FA18 /* arr18.jpg in Resources */,
 				6587EF9824E53AA80032FA18 /* arr3.jpg in Resources */,
 				6587EF9124E53AA80032FA18 /* arr14.jpg in Resources */,
@@ -418,14 +422,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"pARRis/Preview Content\"";
+				DEVELOPMENT_TEAM = 26P93X6TKJ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = pARRis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fr.andre.ios.app.pARRis;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = fr.andre.ios.app.paris;
+				PRODUCT_NAME = "Paris Guide";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -437,14 +442,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"pARRis/Preview Content\"";
+				DEVELOPMENT_TEAM = 26P93X6TKJ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = pARRis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fr.andre.ios.app.pARRis;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = fr.andre.ios.app.paris;
+				PRODUCT_NAME = "Paris Guide";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
