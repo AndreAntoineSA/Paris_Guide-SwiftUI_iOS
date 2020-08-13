@@ -1,0 +1,263 @@
+[
+    {
+        "name": "1 arrondisement",
+        "category": "Featured",
+        "city": "Twentynine Palms",
+        "state": "Paris,75001",
+        "id": 1001,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "arr1"
+    },
+    {
+        "name": "2 arrondisement",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Paris,75002",
+        "id": 1002,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "arr2"
+    },
+    {
+        "name": "3rd arrondisement",
+        "category": "Rivers",
+        "city": "Skagway",
+        "state": "Paris,75003",
+        "id": 1003,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "imageName": "arr3"
+    },
+    {
+        "name": "4th arrondisement",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Paris,75004",
+        "id": 1004,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "imageName": "arr4"
+    },
+    {
+        "name": "5th arrondisement",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Paris,75005",
+        "id": 1005,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "imageName": "arr5"
+    },
+    {
+        "name": "6th arrondisement",
+        "category": "Lakes",
+        "city": "West Glacier",
+        "state": "Paris,75006",
+        "id": 1006,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "imageName": "arr6"
+    },
+    {
+        "name": "7th arrondisement",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Paris,75007",
+        "id": 1007,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "imageName": "arr7"
+    },
+    {
+        "name": "8th arrondisement",
+        "category": "Lakes",
+        "city": "Icy Bay",
+        "state": "Paris,75008",
+        "id": 1008,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "imageName": "arr8"
+    },
+    {
+        "name": "9th arrondisement",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Paris,75009",
+        "id": 1009,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "imageName": "arr9"
+    },
+    {
+        "name": "10th arrondisement",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Paris,75010",
+        "id": 1010,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "imageName": "arr10"
+    },
+    {
+        "name": "11th arrondisement",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Paris,75011",
+        "id": 1011,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "imageName": "arr11"
+    },
+    {
+        "name": "12 arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75012",
+        "id": 1012,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr12"
+    },
+    {
+        "name": "13th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75013",
+        "id": 1013,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr13"
+    },
+    {
+        "name": "14th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75014",
+        "id": 1014,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr14"
+    },
+    {
+        "name": "15th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75015",
+        "id": 1015,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr15"
+    },
+    {
+        "name": "16th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75016",
+        "id": 1016,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr16"
+    },
+    {
+        "name": "17th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75017",
+        "id": 1017,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr17"
+    },
+    {
+        "name": "18th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75018",
+        "id": 1018,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr18"
+    },
+    {
+        "name": "19th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75019",
+        "id": 1019,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr19"
+    },
+    {
+        "name": "20th arrondisement",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "Paris,75020",
+        "id": 1020,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "arr20"
+    }
+    
+]
