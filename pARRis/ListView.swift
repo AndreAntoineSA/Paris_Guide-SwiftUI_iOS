@@ -10,15 +10,20 @@ import SwiftUI
 
 struct ListView: View {
     var body: some View {
+        
         NavigationView{
             List(landmarkData){ landmark in
                 NavigationLink(destination: ContentView(landmark: landmark)){
                     LandmarkRows(landmark: landmark)
                 }
             }
-        .navigationBarTitle(Text("Arrondisement"))
+            .navigationBarTitle(Text("The 20 Arrondisements"))
+            
+            
         }
+       
     }
+    
 }
 
 struct ListView_Previews: PreviewProvider {

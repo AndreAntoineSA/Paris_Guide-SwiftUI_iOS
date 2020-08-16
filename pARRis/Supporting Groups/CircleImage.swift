@@ -15,9 +15,9 @@ struct CircleImage: View {
         
         image
             .resizable()
-            .frame(width: 300, height: 300)
-            .clipShape(Circle())
-            .overlay(Circle().stroke(Color.white, lineWidth: 2))
+            .frame( height: 300)
+            .clipShape(Rectangle())
+            //.overlay(Circle().stroke(Color.white, lineWidth: 2))
             .shadow(radius: 10)
     }
 }

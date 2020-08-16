@@ -1,23 +1,33 @@
 [
     {
-        "name": "1 arrondisement",
+        "name": "1st arrondisement",
+        "sub": "Louvre",
         "category": "Featured",
         "city": "Twentynine Palms",
         "state": "Paris,75001",
         "id": 1001,
-        "park": "Joshua Tree National Park",
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
+        "park": "Tuileries, Jardin des Halles, Palais-Royal gardens",
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
+            "longitude": 2.338629,
+            "latitude": 48.860294
         },
         "imageName": "arr1"
     },
     {
-        "name": "2 arrondisement",
+        "name": "2nd arrondisement",
+        "sub": "Bourse",
         "category": "Lakes",
         "city": "Port Alsworth",
         "state": "Paris,75002",
         "id": 1002,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Lake Clark National Park and Preserve",
         "coordinates": {
             "longitude": -152.665167,
@@ -27,10 +37,15 @@
     },
     {
         "name": "3rd arrondisement",
+        "sub": "Marais",
         "category": "Rivers",
         "city": "Skagway",
         "state": "Paris,75003",
         "id": 1003,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Klondike Gold Rush National Historical Park",
         "coordinates": {
             "longitude": -135.334571,
@@ -40,10 +55,15 @@
     },
     {
         "name": "4th arrondisement",
+        "sub": "Notre-Dame",
         "category": "Lakes",
         "city": "Browning",
         "state": "Paris,75004",
         "id": 1004,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Glacier National Park",
         "coordinates": {
             "longitude": -113.536248,
@@ -53,10 +73,15 @@
     },
     {
         "name": "5th arrondisement",
+        "sub": "Latin Quater",
         "category": "Lakes",
         "city": "Twin Lakes",
         "state": "Paris,75005",
         "id": 1005,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Lake Clark National Park and Preserve",
         "coordinates": {
             "longitude": -153.849883,
@@ -66,10 +91,15 @@
     },
     {
         "name": "6th arrondisement",
+        "sub": "St. Germain-des-Prés, Luxembourg Garden",
         "category": "Lakes",
         "city": "West Glacier",
         "state": "Paris,75006",
         "id": 1006,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Glacier National Park",
         "coordinates": {
             "longitude": -113.934831,
@@ -79,10 +109,15 @@
     },
     {
         "name": "7th arrondisement",
+        "sub": "Eiffel tower, Invalides",
         "category": "Rivers",
         "city": "Eaking",
         "state": "Paris,75007",
         "id": 1007,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Charley Rivers National Preserve",
         "coordinates": {
             "longitude": -143.122586,
@@ -92,10 +127,15 @@
     },
     {
         "name": "8th arrondisement",
+        "sub": "Arc de Triomphe, Champs Élysées",
         "category": "Lakes",
         "city": "Icy Bay",
         "state": "Paris,75008",
         "id": 1008,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Wrangell-St. Elias National Park and Preserve",
         "coordinates": {
             "longitude": -141.518167,
@@ -105,10 +145,15 @@
     },
     {
         "name": "9th arrondisement",
+        "sub": "Opera Garnier, Grands Boulevards",
         "category": "Lakes",
         "city": "Willow",
         "state": "Paris,75009",
         "id": 1009,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "State Recreation Area",
         "coordinates": {
             "longitude": -150.086103,
@@ -118,10 +163,15 @@
     },
     {
         "name": "10th arrondisement",
+        "sub": "Canal Saint-Martin",
         "category": "Lakes",
         "city": "Newhalem",
         "state": "Paris,75010",
         "id": 1010,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "North Cascades National Park",
         "coordinates": {
             "longitude": -121.17799,
@@ -131,10 +181,15 @@
     },
     {
         "name": "11th arrondisement",
+        "sub": "Fabourg St.Antoine , Oberkampf",
         "category": "Rivers",
         "city": "Chincoteague",
         "state": "Paris,75011",
         "id": 1011,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Chincoteague National Wildlife Refuge",
         "coordinates": {
             "longitude": -75.383212,
@@ -144,10 +199,15 @@
     },
     {
         "name": "12 arrondisement",
+        "sub": "Bercy,Bois de Vincennes",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75012",
         "id": 1012,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -157,10 +217,15 @@
     },
     {
         "name": "13th arrondisement",
+        "sub": "Tolbiac, Gobelins, Paris Rive Gauche",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75013",
         "id": 1013,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -170,10 +235,15 @@
     },
     {
         "name": "14th arrondisement",
+        "sub": "Montparnesse",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75014",
         "id": 1014,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -183,10 +253,15 @@
     },
     {
         "name": "15th arrondisement",
+        "sub": "Vaugirard, Grenelle",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75015",
         "id": 1015,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -196,10 +271,16 @@
     },
     {
         "name": "16th arrondisement",
+        "sub": "Passy,Auteuil",
+
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75016",
         "id": 1016,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -209,10 +290,16 @@
     },
     {
         "name": "17th arrondisement",
+        "sub": "Batingnolles, Monceau",
+
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75017",
         "id": 1017,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -222,10 +309,15 @@
     },
     {
         "name": "18th arrondisement",
+        "sub": "Montmarte",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75018",
         "id": 1018,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -235,10 +327,15 @@
     },
     {
         "name": "19th arrondisement",
+        "sub": "La Villette,Buttes-Chaumont",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75019",
         "id": 1019,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,
@@ -248,10 +345,15 @@
     },
     {
         "name": "20th arrondisement",
+        "sub": "Belleville,Ménilmontant",
         "category": "Lakes",
         "city": "Errol",
         "state": "Paris,75020",
         "id": 1020,
+        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
+        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
+        "population": "17,400",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
             "longitude": -71.056816,

@@ -12,25 +12,24 @@ struct ContentView: View {
     var landmark:Landmark
     var body: some View {
         VStack {
-            MapView(coordinate: landmark.locationCoordinate)
-            .edgesIgnoringSafeArea(.top)
-            .frame(height:200)
+            
 
             CircleImage(image: landmark.image)
-                .offset(y: -120)
-                .padding(.bottom, -150)
+               // .offset(y: 0)
+                //.padding(.bottom, -10)
+                //.edgesIgnoringSafeArea(.top)
             
             VStack(alignment: .leading) {
                 Text(landmark.name)
                     .font(.title)
                     .foregroundColor(Color.blue)
                     .multilineTextAlignment(.leading)
-                Spacer()
+                
                 HStack {
                     Text("Monuments:")
                         .font(.subheadline)
                     Spacer()
-                    Text("Louvre Palace, Palais Royal, Sainte-Chapelle, Saint-Germain-l’Auxerrois Church, Saint-Roch church")
+                    Text(landmark.monuments)
                         .font(.body)
                         .multilineTextAlignment(.leading)
                 }
@@ -38,7 +37,7 @@ struct ContentView: View {
                     Text("Landmarks :")
                         .font(.subheadline)
                     Spacer()
-                    Text("Forum des Halles, Conciergerie, Place Dauphine, Place Vendôme")
+                    Text(landmark.landmarks)
                         .font(.body)
                         .multilineTextAlignment(.leading)
                 }
@@ -46,7 +45,7 @@ struct ContentView: View {
                     Text("Museums and Art Galleries:")
                         .font(.subheadline)
                     Spacer()
-                    Text("Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum")
+                    Text(landmark.museums)
                         .font(.body)
                 }
                 
@@ -54,7 +53,7 @@ struct ContentView: View {
                     Text("Parks and Gardens: ")
                         .font(.subheadline)
                     Spacer()
-                    Text("Tuileries, Jardin des Halles, Palais-Royal gardens")
+                    Text(landmark.park)
                         .font(.body)
                 }
                 HStack {
@@ -68,23 +67,28 @@ struct ContentView: View {
                     Text("Population")
                         .font(.subheadline)
                     Spacer()
-                    Text("17,400")
+                    Text(landmark.population)
                         .font(.body)
                         
                 }
 
-                Spacer()
+               
             }
-            .padding()
+            .padding(.all)
+            Spacer()
+            MapView(coordinate: landmark.locationCoordinate)
+                .edgesIgnoringSafeArea(.bottom)
+            .frame(height:100)
+                .padding(.top)
             
-        Spacer()
+        
         }
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView(landmark: landmarkData[12])
+        ContentView(landmark: landmarkData[1])
         
     }
 }

@@ -10,7 +10,8 @@ import CoreLocation
 
 struct Landmark: Hashable, Codable , Identifiable{
     var id: Int
-    var name: String
+    var name, sub, monuments, landmarks, museums, population : String
+ //   var sub: String
     fileprivate var imageName: String
     fileprivate var coordinates: Coordinates
     var state: String
