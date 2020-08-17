@@ -17,7 +17,7 @@ struct RectangleImage: View {
             .resizable()
             .frame( height: 300)
             .clipShape(Rectangle())
-            .overlay(Rectangle().stroke(Color.black, lineWidth: 1))
+            .overlay(Rectangle().stroke(Color.gray, lineWidth: 1))
             .shadow(radius: 15)
     }
 }

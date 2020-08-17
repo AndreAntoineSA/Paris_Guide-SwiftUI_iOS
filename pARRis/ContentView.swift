@@ -13,7 +13,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
 
-            CircleImage(image: landmark.image)
+            RectangleImage(image: landmark.image)
                // .offset(y: 0)
                 //.padding(.bottom, -10)
                 //.edgesIgnoringSafeArea(.top)
@@ -32,6 +32,7 @@ struct ContentView: View {
                         .font(.body)
                         .multilineTextAlignment(.leading)
                 }
+                .padding(.top)
                 HStack {
                     Text("Landmarks :")
                         .font(.subheadline)
@@ -40,6 +41,7 @@ struct ContentView: View {
                         .font(.body)
                         .multilineTextAlignment(.leading)
                 }
+                .padding(.top)
                 HStack {
                     Text("Museums and Art Galleries:")
                         .font(.subheadline)
@@ -47,6 +49,7 @@ struct ContentView: View {
                     Text(landmark.museums)
                         .font(.body)
                 }
+                .padding(.top)
                 
                 HStack {
                     Text("Parks and Gardens: ")
@@ -54,26 +57,32 @@ struct ContentView: View {
                     Spacer()
                     Text(landmark.park)
                         .font(.body)
+                        .multilineTextAlignment(.leading)
                 }
+                .padding(.top)
                 HStack {
                     Text("Postal Code")
                         .font(.subheadline)
                     Spacer()
                     Text(landmark.state)
                         .font(.body)
+                        .multilineTextAlignment(.leading)
                 }
+                .padding(.top)
                 HStack {
                     Text("Population")
                         .font(.subheadline)
                     Spacer()
                     Text(landmark.population)
                         .font(.body)
+                        .multilineTextAlignment(.leading)
                         
                 }
+                .padding(.top)
 
                
             }
-            .padding(.all)
+            .padding(.horizontal)
             Spacer()
             MapView(coordinate: landmark.locationCoordinate)
                 .edgesIgnoringSafeArea(.bottom)
@@ -87,7 +96,7 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView(landmark: landmarkData[1])
+        ContentView(landmark: landmarkData[0])
         
     }
 }

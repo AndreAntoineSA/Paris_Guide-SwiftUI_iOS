@@ -17,15 +17,34 @@ struct ListView: View {
                     LandmarkRows(landmark: landmark)
                 }
             }
-            .navigationBarTitle(Text("The 20 Arrondisements"))
+            .navigationBarTitle(Text("The 20 Arrondisements"),displayMode: .inline)
+            .background(NavigationConfigurator { nc in
+                    nc.navigationBar.barTintColor = .systemGray4
+                    nc.navigationBar.titleTextAttributes = [.foregroundColor: UIColor.black]
+            })
             
             
-        }
+        }.navigationViewStyle(StackNavigationViewStyle())
        
     }
     
 }
 
+struct NavigationConfigurator: UIViewControllerRepresentable {
+    
+    var configure: (UINavigationController) -> Void = { _ in }
+
+    func makeUIViewController(context: UIViewControllerRepresentableContext<NavigationConfigurator>) -> UIViewController {
+        UIViewController()
+    }
+    
+    func updateUIViewController(_ uiViewController: UIViewController, context: UIViewControllerRepresentableContext<NavigationConfigurator>) {
+        if let nc = uiViewController.navigationController {
+            self.configure(nc)
+        }
+    }
+
+}
 struct ListView_Previews: PreviewProvider {
     static var previews: some View {
         ListView()

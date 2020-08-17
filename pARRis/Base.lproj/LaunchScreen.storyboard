@@ -15,18 +15,18 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="top" semanticContentAttribute="forceLeftToRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Component 1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="1os-2D-zCj">
-                                <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Component 1.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="1os-2D-zCj">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <color key="backgroundColor" red="0.0078431372549019607" green="0.019607843137254902" blue="0.30588235294117649" alpha="0.5490196078431373" colorSpace="calibratedRGB"/>
                                 <color key="tintColor" red="0.0078431372550000003" green="0.019607843140000001" blue="0.30588235289999999" alpha="0.54901960780000003" colorSpace="calibratedRGB"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="1os-2D-zCj" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="MRj-Aj-42b"/>
-                            <constraint firstItem="1os-2D-zCj" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="edE-J5-G13"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="1os-2D-zCj" secondAttribute="trailing" id="oAd-IU-Q4f"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="1os-2D-zCj" secondAttribute="bottom" id="uUv-Ve-pFn"/>
+                            <constraint firstAttribute="bottom" secondItem="1os-2D-zCj" secondAttribute="bottom" id="DdO-3A-91e"/>
+                            <constraint firstItem="1os-2D-zCj" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="La5-d1-2dY"/>
+                            <constraint firstItem="1os-2D-zCj" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Xgg-vy-ALR"/>
+                            <constraint firstItem="1os-2D-zCj" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="oew-6p-9Wk"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
