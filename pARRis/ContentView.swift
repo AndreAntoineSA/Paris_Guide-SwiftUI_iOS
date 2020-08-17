@@ -12,7 +12,6 @@ struct ContentView: View {
     var landmark:Landmark
     var body: some View {
         VStack {
-            
 
             CircleImage(image: landmark.image)
                // .offset(y: 0)

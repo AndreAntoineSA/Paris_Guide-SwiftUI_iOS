@@ -24,14 +24,14 @@
         "city": "Port Alsworth",
         "state": "Paris,75002",
         "id": 1002,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Lake Clark National Park and Preserve",
+        "monuments": "Notre-Dame des Victoires basilica",
+        "landmarks": "Bourse, covered passageways",
+        "museums": "Notre-Dame des Victoires basilica",
+        "population": "23,000",
+        "park": "N/A",
         "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
+            "longitude": 2.34134,
+            "latitude": 48.86866
         },
         "imageName": "arr2"
     },
@@ -42,14 +42,14 @@
         "city": "Skagway",
         "state": "Paris,75003",
         "id": 1003,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Klondike Gold Rush National Historical Park",
+        "monuments": "Square du Temple, St Nicolas des Champs church",
+        "landmarks": "Marais district (north)",
+        "museums": "Archives Nationales, Carnavalet Museum,  Picasso Museum,Musées des Arts et Métiers Parks",
+        "population": "36,000",
+        "park": "Jardin Anne Frank, Square du Temple",
         "coordinates": {
-            "longitude": -135.334571,
-            "latitude": 59.560551
+            "longitude": 2.36146,
+            "latitude": 48.87167
         },
         "imageName": "arr3"
     },
@@ -60,14 +60,14 @@
         "city": "Browning",
         "state": "Paris,75004",
         "id": 1004,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Glacier National Park",
+        "monuments": "  Notre-Dame cathedral, Place de la Bastille,  St Gervais-St Protais church, St Paul-St Louis church, St Jacques Tower,  ",
+        "landmarks": "Marais (South),Place des Vosges,Paris City-Hall, Hôtel de Sully,Square de l’Ile de France",
+        "museums": "Pompidou Centre",
+        "population": "60,000",
+        "park": "Jardin de l’Archevêché, Square de la Tour Saint-Jacques",
         "coordinates": {
-            "longitude": -113.536248,
-            "latitude": 48.69423
+            "longitude": 2.35056,
+            "latitude": 48.85273
         },
         "imageName": "arr4"
     },
@@ -78,14 +78,14 @@
         "city": "Twin Lakes",
         "state": "Paris,75005",
         "id": 1005,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Lake Clark National Park and Preserve",
+        "monuments": " Place Saint-Michel, Panthéon, Saint-Séverin church",
+        "landmarks": "Quartier Latin,Val de Grâce, Lutetia arena",
+        "museums": "Musée National d’Histoire Naturelle, Middle-Ages museum",
+        "population": "60,000",
+        "park": "Jardin des Plantes, Square René-Viviani",
         "coordinates": {
-            "longitude": -153.849883,
-            "latitude": 60.641684
+            "longitude":  2.34556,
+            "latitude": 48.85085
         },
         "imageName": "arr5"
     },
@@ -96,14 +96,14 @@
         "city": "West Glacier",
         "state": "Paris,75006",
         "id": 1006,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Glacier National Park",
+        "monuments": "St Sulpice church,Luxembourg Palace",
+        "landmarks": "Saint-Germain-des-Prés, Institut de France, , Hôtel des Monnaies",
+        "museums": "N/A",
+        "population": "43,900",
+        "park": "Jardin du Luxembourg",
         "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
+            "longitude": 2.33719,
+            "latitude": 48.84933
         },
         "imageName": "arr6"
     },
@@ -114,14 +114,14 @@
         "city": "Eaking",
         "state": "Paris,75007",
         "id": 1007,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Charley Rivers National Preserve",
+        "monuments": "Eiffel Tower, Invalides,  St Clotilde basilica ",
+        "landmarks": "Palais Bourbon, Faubourg Saint-Germain,",
+        "museums": "Orsay Museum, Rodin Museum, Musée du Quai Branly",
+        "population": "57,800",
+        "park": "Champ de Mars, Esplanade des Invalides",
         "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
+            "longitude": 2.29305,
+            "latitude": 48.85609
         },
         "imageName": "arr7"
     },
@@ -132,14 +132,14 @@
         "city": "Icy Bay",
         "state": "Paris,75008",
         "id": 1008,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Wrangell-St. Elias National Park and Preserve",
+        "monuments": " Arc de Triomphe, Place de la Concorde, Pont Alexandre III, La Madeleine church, St Augustin church ",
+        "landmarks": "Champs-Elysées,Gare Saint-Lazare",
+        "museums": "Fine Arts Museum at Petit-Palais, Musée Jacquemart-André ",
+        "population": "40,600",
+        "park": "Jardin des Champs-Elysées, Parc Monceau",
         "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
+            "longitude": 2.30874,
+            "latitude": 48.86950
         },
         "imageName": "arr8"
     },
@@ -150,14 +150,14 @@
         "city": "Willow",
         "state": "Paris,75009",
         "id": 1009,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "State Recreation Area",
+        "monuments": "Opera Garnier,  Ste Trinité church",
+        "landmarks": "Galeries Lafayette, Printemps Department Store, Pigalle, Covered passageways ",
+        "museums": "Musée Grévin, Musée de la Vie Romantique ",
+        "population": "59,400",
+        "park": "N/A",
         "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
+            "longitude": 2.33177,
+            "latitude": 48.87193
         },
         "imageName": "arr9"
     },
@@ -168,14 +168,14 @@
         "city": "Newhalem",
         "state": "Paris,75010",
         "id": 1010,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "North Cascades National Park",
+        "monuments": "Canal Saint-Martin, Saint-Vincent de Paul church, St Laurent church",
+        "landmarks": "Gare du Nord, Gare de l’Est",
+        "museums": "N/A",
+        "population": "94,000",
+        "park": "Square Villemin",
         "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
+            "longitude": 2.36942,
+            "latitude": 48.85267
         },
         "imageName": "arr10"
     },
@@ -186,14 +186,14 @@
         "city": "Chincoteague",
         "state": "Paris,75011",
         "id": 1011,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "monuments": "Cirque d’Hiver, St Ambroise church, St Marguerite church",
+        "landmarks": "Place de la République,Place de la Nation",
         "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Chincoteague National Wildlife Refuge",
+        "population": "154,650",
+        "park": "Square de la Roquette, Square Maurice Gardette",
         "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
+            "longitude": 2.37470,
+            "latitude": 48.86518
         },
         "imageName": "arr11"
     },
@@ -204,14 +204,14 @@
         "city": "Errol",
         "state": "Paris,75012",
         "id": 1012,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": "Opera Bastille, Place Daumesnil, St Esprit church, Notre-Dame de la Nativité church ",
+        "landmarks": "Gare de Lyon, Bercy, Place de la Nation",
+        "museums": "Musée de l’Histoire de l’Immigration",
+        "population": "144,720",
+        "park": "Coulée Verte René Dumont, Bercy Park, Bois de Vincennes, Parc Floral",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.38568,
+            "latitude": 48.83546
         },
         "imageName": "arr12"
     },
@@ -222,14 +222,14 @@
         "city": "Errol",
         "state": "Paris,75013",
         "id": 1013,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
+        "monuments": "Bibliothèque Nationale de France, Gobelins Manufacture, Butte aux Cailles",
+        "landmarks": "Place d’Italie, Chinese district, Gare d’Austerlitz ",
+               "museums": "N/A",
+        "population": "183,260",
         "park": "Umbagog National Wildlife Refuge",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.35946,
+            "latitude": 48.82617
         },
         "imageName": "arr13"
     },
@@ -240,14 +240,14 @@
         "city": "Errol",
         "state": "Paris,75014",
         "id": 1014,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": "Montparnasse, Paris catacombs,  Paris Observatory, St Pierre de Montrouge church, Notre-Dame du Travail church, ",
+        "landmarks": " Place Denfert-Rochereau, Place de Catalogne, Cité Universitaire",
+        "museums": "N/A",
+        "population": "140,300",
+        "park": "Parc Montsouris, Montparnasse cemetery",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.33049,
+            "latitude": 48.83933
         },
         "imageName": "arr14"
     },
@@ -258,14 +258,14 @@
         "city": "Errol",
         "state": "Paris,75015",
         "id": 1015,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": "Montparnasse Tower, St Jean Baptiste de Grenelle church",
+        "landmarks": "Ile aux cygnes, Rue du Commerce, Front de Seine (Beaugrenelle)",
+        "museums": "Bourdelle museum",
+        "population": "237,100",
+        "park": "Parc André Citroën, Square Saint-Lambert, Parc Georges Brassens, Jardin Atlantique",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.29277,
+            "latitude": 48.84216
         },
         "imageName": "arr15"
     },
@@ -277,14 +277,14 @@
         "city": "Errol",
         "state": "Paris,75016",
         "id": 1016,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": "Trocadéro, St Pierre de Chaillot,  ",
+        "landmarks": "Place Victor Hugo, Passy, Auteuil, Maison de Radio-France",
+        "museums": "Contemporary Art Museum (Palais de Tokyo), Galliera museum, Baccarat museum, Marmottan museum, Guimet museum, Wine museum",
+        "population": "170,000",
+        "park": "Trocadéro Gardens, Jardin du Ranelagh, Bois de Boulogne, Passy cemetery",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.27470,
+            "latitude": 48.85824
         },
         "imageName": "arr16"
     },
@@ -296,14 +296,14 @@
         "city": "Errol",
         "state": "Paris,75017",
         "id": 1017,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": " Place Saint-Michel, Panthéon, Saint-Séverin church",
+        "landmarks": "Quartier Latin, Lutetia arena, Val de Grâce,",
+        "museums": "Musée National d’Histoire Naturelle, Middle-Ages museum at Hôtel de Cluny",
+        "population": "170,170",
+        "park": "Jardin des Plantes, Square René-Viviani",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.31395,
+            "latitude": 48.88734
         },
         "imageName": "arr17"
     },
@@ -314,14 +314,14 @@
         "city": "Errol",
         "state": "Paris,75018",
         "id": 1018,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": "Montmartre, Sacré-Cœur basilica",
+        "landmarks": "Place des Abbesses",
+        "museums": "Montmartre Museum",
+        "population": "203,100",
+        "park": "Montmartre cemetery, Square Louise Michel, Parc de la Turlure, Square Léon Serpollet, St Vincent cemetery, Jardin d’Eole",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.33889,
+            "latitude": 48.88671
         },
         "imageName": "arr18"
     },
@@ -332,14 +332,14 @@
         "city": "Errol",
         "state": "Paris,75019",
         "id": 1019,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
-        "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
-        "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "monuments": "N/A",
+        "landmarks": "La Villette,Bassin de la Villette, Canal de l’Ourcq",
+        "museums": "Cité des Sciences et de l’Industrie ",
+        "population": "160,100",
+        "park": "Parc de la Villette, Buttes-Chaumont, Parc de la Butte du Chapeau Rouge",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.38192,
+            "latitude": 48.88232
         },
         "imageName": "arr19"
     },
@@ -350,14 +350,14 @@
         "city": "Errol",
         "state": "Paris,75020",
         "id": 1020,
-        "monuments": "Louvre Palace, Palais Royal, Sainte-Chapelle, Place Dauphine, Saint-Germain-l’Auxerrois Church, Saint-Roch church",
-        "landmarks": "Forum des Halles,Conciergerie,Place Dauphine,Place Vendôme",
+        "monuments": "Notre-Dame de la Croix de Ménilmontant church, St Germain de Charonne church",
+        "landmarks": "Belleville, Ménilmontant, Charonne",
         "museums": "Louvre Museum, Galerie Nationale du Jeu de Paume, Orangerie Museum",
         "population": "17,400",
-        "park": "Umbagog National Wildlife Refuge",
+        "park": "Père Lachaise cemetery, Parc de Belleville",
         "coordinates": {
-            "longitude": -71.056816,
-            "latitude": 44.747408
+            "longitude": 2.38946,
+            "latitude": 48.87282
         },
         "imageName": "arr20"
     }
