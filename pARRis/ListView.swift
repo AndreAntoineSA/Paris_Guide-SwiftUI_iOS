@@ -1,6 +1,6 @@
 //
 //  ListView.swift
-//  pARRis
+//  Paris Guide
 //
 //  Created by Andre Antoine Saint Ange on 13/08/2020.
 //  Copyright © 2020 Andre Antoine Saint Ange. All rights reserved.

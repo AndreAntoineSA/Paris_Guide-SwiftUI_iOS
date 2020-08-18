@@ -1,6 +1,6 @@
 //
 //  LandmarkRows.swift
-//  pARRis
+//  Paris Guide
 //
 //  Created by Andre Antoine Saint Ange on 13/08/2020.
 //  Copyright © 2020 Andre Antoine Saint Ange. All rights reserved.
@@ -29,6 +29,7 @@ struct LandmarkRows: View {
                 .font(.footnote)
                 .padding(.top, 44.0)
         }.padding(.leading,10)
+            
     }
 }
 

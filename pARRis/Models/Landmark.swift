@@ -1,9 +1,10 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-The model for an individual landmark.
-*/
+//
+//  Landmark.swift
+//  Paris Guide
+//
+//  Created by Andre Antoine Saint Ange on 08/08/2020.
+//  Copyright © 2020 Andre Antoine Saint Ange. All rights reserved.
+//
 
 import SwiftUI
 import CoreLocation
